@@ -4,20 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 3, 2018
 
 ### Student Name:  
-(First and Last Name)
+Daniel Vincent
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This is a tax bracket calculator that operates on an HTML webpage using Javascript elements.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://dav14.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. I learned how to use a scrolling menu with different input options in the "Filing Status" box.
+2. I learned more about how to use the "function" command in Javascript.
+3. I learned more about how to use the "getElementById" command in Javascript.
